@@ -2,8 +2,4 @@
 2) Hello world this is second line
 3) Hello world this is third line
 4) Hello world this is fourth line
-<<<<<<< HEAD
 5) added fifth line
-
-=======
->>>>>>> parent of 974b885... added 5th line
